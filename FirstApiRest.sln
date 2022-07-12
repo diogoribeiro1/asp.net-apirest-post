@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApiRest", "FirstApiRest\FirstApiRest.csproj", "{3CDF1A2A-C253-407D-A247-8A73F4B5DD59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CDF1A2A-C253-407D-A247-8A73F4B5DD59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDF1A2A-C253-407D-A247-8A73F4B5DD59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDF1A2A-C253-407D-A247-8A73F4B5DD59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDF1A2A-C253-407D-A247-8A73F4B5DD59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
